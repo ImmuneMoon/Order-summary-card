@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/order-summary-card-with-flexbox-Fgyta-tE9o)
-- Live Site URL: [Add live site URL here](https://immunemoon.github.io/Order-summary-card/)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/order-summary-card-with-flexbox-Fgyta-tE9o)
+- Live Site URL: [GitHub Pages](https://immunemoon.github.io/Order-summary-card/)
 
 ## My process
 
@@ -40,5 +40,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Fulllion](https://immunemoon.github.io/Portfolio-Website/)
+- Website - [Fulllion Creative Works](https://fulllioncreativeworks.com)
 - Frontend Mentor - [@ImmuneMoon](https://www.frontendmentor.io/profile/ImmuneMoon)
